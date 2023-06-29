@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#25292e"
-      }
+      },
+      "package": "com.robeertosv.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0ff60ee1-e70b-4eb7-946a-292d5ded102a"
+      }
     }
   }
 }
